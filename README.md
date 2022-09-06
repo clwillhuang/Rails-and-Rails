@@ -24,6 +24,6 @@ Players can complete the game's levels in any order that they would like. In eac
 -   The simulation can be stopped by clicking "Back to Construction". This allows them to edit the track layout or restart the simulation from the start.
 ![Simulation of railroad operations in the game](Screenshots/Simulation.PNG)
 
-## Development Credits
+## Credits
 
-The development and 3D modelling was independently done by me. This map uses the Material UI Pack by MICHSKY and icons from The Noun Project. Sound effects are from freesound.org.
+The development and 3D modeling was independently done by me. This project uses the [Modern UI Pack by MICHSKY](https://assetstore.unity.com/packages/tools/gui/modern-ui-pack-201717) and mouse icons from [The Noun Project](https://thenounproject.com/). Sound effects are from [freesound](https://freesound.org/).
