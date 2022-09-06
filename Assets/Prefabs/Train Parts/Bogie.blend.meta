@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: f3755cd1ddb9e1a46b3aea6dfe57495a
+timeCreated: 1526692142
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Circle_000
+    100004: Circle_001
+    100006: Circle_002
+    100008: Circle_003
+    100010: Circle_004
+    100012: Circle_005
+    100014: Circle_006
+    100016: Circle_007
+    100018: Cube
+    100020: Cube_001
+    100022: Cube_002
+    100024: Cylinder
+    100026: Cylinder_001
+    100028: Cylinder_002
+    100030: Cylinder_003
+    400000: //RootNode
+    400002: Circle_000
+    400004: Circle_001
+    400006: Circle_002
+    400008: Circle_003
+    400010: Circle_004
+    400012: Circle_005
+    400014: Circle_006
+    400016: Circle_007
+    400018: Cube
+    400020: Cube_001
+    400022: Cube_002
+    400024: Cylinder
+    400026: Cylinder_001
+    400028: Cylinder_002
+    400030: Cylinder_003
+    2300000: Circle_000
+    2300002: Circle_001
+    2300004: Circle_002
+    2300006: Circle_003
+    2300008: Circle_004
+    2300010: Circle_005
+    2300012: Circle_006
+    2300014: Circle_007
+    2300016: Cube
+    2300018: Cube_001
+    2300020: Cube_002
+    2300022: Cylinder
+    2300024: Cylinder_001
+    2300026: Cylinder_002
+    2300028: Cylinder_003
+    3300000: Circle_000
+    3300002: Circle_001
+    3300004: Circle_002
+    3300006: Circle_003
+    3300008: Circle_004
+    3300010: Circle_005
+    3300012: Circle_006
+    3300014: Circle_007
+    3300016: Cube
+    3300018: Cube_001
+    3300020: Cube_002
+    3300022: Cylinder
+    3300024: Cylinder_001
+    3300026: Cylinder_002
+    3300028: Cylinder_003
+    4300000: Cube
+    4300002: Cylinder
+    4300004: Circle_001
+    4300006: Cube_001
+    4300008: Circle_000
+    4300010: Circle_003
+    4300012: Circle_002
+    4300014: Cylinder_001
+    4300016: Circle_007
+    4300018: Circle_006
+    4300020: Circle_005
+    4300022: Circle_004
+    4300024: Cylinder_003
+    4300026: Cylinder_002
+    4300028: Cube_002
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: acb43cd899a24fd449a5876681001bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: aa8db13d5fa9b2a45b49ec7634a8e23f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

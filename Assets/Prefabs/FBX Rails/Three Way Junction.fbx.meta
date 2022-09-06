@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 54680f43aab2c3c478e5b85c822c1a96
+timeCreated: 1525727634
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: Camera
+    100004: Circle.000
+    100006: Circle.001
+    100008: Circle.002
+    100010: Circle.004
+    100012: Cube.006
+    100014: Cube.007
+    100016: Cube.013
+    100018: Cube.014
+    100020: Cube.015
+    100022: Cube.016
+    100024: Cube.017
+    100026: Cube.018
+    100028: Cube.019
+    100030: Cube.020
+    100032: Cube.021
+    100034: Cube.022
+    100036: Cube.023
+    100038: Cube.024
+    100040: Cube.025
+    100042: Cube.026
+    100044: Cube.032
+    100046: Cube.033
+    100048: Cube.034
+    100050: Cube.035
+    100052: Cube.036
+    100054: Cube.038
+    100056: //RootNode
+    100058: Track Left.004
+    100060: Track Left.005
+    400000: BezierCurve
+    400002: Camera
+    400004: Circle.000
+    400006: Circle.001
+    400008: Circle.002
+    400010: Circle.004
+    400012: Cube.006
+    400014: Cube.007
+    400016: Cube.013
+    400018: Cube.014
+    400020: Cube.015
+    400022: Cube.016
+    400024: Cube.017
+    400026: Cube.018
+    400028: Cube.019
+    400030: Cube.020
+    400032: Cube.021
+    400034: Cube.022
+    400036: Cube.023
+    400038: Cube.024
+    400040: Cube.025
+    400042: Cube.026
+    400044: Cube.032
+    400046: Cube.033
+    400048: Cube.034
+    400050: Cube.035
+    400052: Cube.036
+    400054: Cube.038
+    400056: //RootNode
+    400058: Track Left.004
+    400060: Track Left.005
+    2000000: Camera
+    2300000: BezierCurve
+    2300002: Circle.000
+    2300004: Circle.001
+    2300006: Circle.002
+    2300008: Circle.004
+    2300010: Cube.006
+    2300012: Cube.007
+    2300014: Cube.013
+    2300016: Cube.014
+    2300018: Cube.015
+    2300020: Cube.016
+    2300022: Cube.017
+    2300024: Cube.018
+    2300026: Cube.019
+    2300028: Cube.020
+    2300030: Cube.021
+    2300032: Cube.022
+    2300034: Cube.023
+    2300036: Cube.024
+    2300038: Cube.025
+    2300040: Cube.026
+    2300042: Cube.032
+    2300044: Cube.033
+    2300046: Cube.034
+    2300048: Cube.035
+    2300050: Cube.036
+    2300052: Cube.038
+    2300054: Track Left.004
+    2300056: Track Left.005
+    3300000: BezierCurve
+    3300002: Circle.000
+    3300004: Circle.001
+    3300006: Circle.002
+    3300008: Circle.004
+    3300010: Cube.006
+    3300012: Cube.007
+    3300014: Cube.013
+    3300016: Cube.014
+    3300018: Cube.015
+    3300020: Cube.016
+    3300022: Cube.017
+    3300024: Cube.018
+    3300026: Cube.019
+    3300028: Cube.020
+    3300030: Cube.021
+    3300032: Cube.022
+    3300034: Cube.023
+    3300036: Cube.024
+    3300038: Cube.025
+    3300040: Cube.026
+    3300042: Cube.032
+    3300044: Cube.033
+    3300046: Cube.034
+    3300048: Cube.035
+    3300050: Cube.036
+    3300052: Cube.038
+    3300054: Track Left.004
+    3300056: Track Left.005
+    4300000: Cube.026
+    4300002: Cube.025
+    4300004: Cube.024
+    4300006: Cube.023
+    4300008: Cube.022
+    4300010: Cube.021
+    4300012: Cube.006
+    4300014: Track Left.005
+    4300016: Track Left.004
+    4300018: Cube.020
+    4300020: Cube.019
+    4300022: Cube.018
+    4300024: Cube.017
+    4300026: Cube.013
+    4300028: Cube.016
+    4300030: Cube.015
+    4300032: Cube.007
+    4300034: Circle.001
+    4300036: Circle.002
+    4300038: BezierCurve
+    4300040: Cube.014
+    4300042: Circle.000
+    4300044: Circle.004
+    4300046: Cube.032
+    4300048: Cube.033
+    4300050: Cube.034
+    4300052: Cube.035
+    4300054: Cube.036
+    4300056: Cube.038
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel Rail
+    second: {fileID: 2100000, guid: 9400ea49530d14040beece46b780ca87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Sleeper
+    second: {fileID: 2100000, guid: 737009af2d2ef53419a3cf828628754a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
